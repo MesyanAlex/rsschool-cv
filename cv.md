@@ -1,5 +1,4 @@
-<head>   
-    cv task
+<head>      
 </head>
 <body>
     <h2>Alexander Mesyan</h2>
