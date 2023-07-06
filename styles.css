@@ -1,0 +1,42 @@
+.rs-logo {
+    height: 5vh;
+    width: 10vh;
+}
+.year-line {
+    
+}
+.my-link {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.course-link {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+.nametag {
+    display: block;
+    width: 200px;
+}
+main {
+    text-align: center;    
+}
+.phone-icon {
+   height: 25px;
+   width: 25px;
+}
+.phone {
+    display: flex;
+    justify-content: center;
+}
