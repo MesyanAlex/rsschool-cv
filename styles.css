@@ -1,0 +1,54 @@
+.rs-logo {
+    height: 5vh;
+    width: 10vw;
+}
+.year-line {
+    
+}
+.my-link {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.course-link {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+.nametag {
+    display: block;
+    width: 300px;
+}
+main {
+    text-align: center;
+}
+.phone-icon {
+   height: 25px;
+   width: 25px;
+}
+.phone {
+    display: flex;
+    justify-content: center;
+}
+.avatar {
+    width: 10vh;
+    position: absolute;
+    left: 0%;
+}
+.no-bullet-list {
+    list-style-type: none;
+    font-size: larger;
+}
+.code-example {    
+    color: blue;
+}
